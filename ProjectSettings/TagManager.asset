@@ -50,6 +50,9 @@ TagManager:
   - name: Player
     uniqueID: 2197188043
     locked: 0
+  - name: Midgorund
+    uniqueID: 2422453533
+    locked: 0
   - name: Foreground
     uniqueID: 1047568215
     locked: 0
